@@ -1,4 +1,4 @@
-<img src = "Images/logo_gapminder.png" align="middle">  <br/> 
+<img src = "Images/logo_gapminder.png" align="middle" width=600>  <br/> 
 
 
 ## Regional-Growth-Gapminder <br/>
