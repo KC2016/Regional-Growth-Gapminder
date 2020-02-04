@@ -1,4 +1,5 @@
-# Regional-Growth-Gapminder
+<img src = "images/logo_gapminder.png" align="middle">
+## Regional-Growth-Gapminder
 This is the second project of my Data Analyst Nanodegree by Udacity. <br/>
  <br/>
  
@@ -8,16 +9,16 @@ The main objectives in this project are to found trends between the selected met
 <br/>
 Data are provided as Excel spreadsheet files.
 
-## Table of Contents
+### Table of Contents
 •	Introduction<br/>
 •	Data Wrangling<br/>
 •	Exploratory Data Analysis<br/>
 •	Conclusions<br/>
 
-## Install
+### Install
 The environment used is of Python 3.6 with the main libraries to Data Analysis with Python.
 
-## License
+### License
 MIT License<br/>
 Copyright (c) 2010-2019 Google
 
