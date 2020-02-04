@@ -1,5 +1,7 @@
-<img src = "images/logo_gapminder.png" align="middle">
-## Regional-Growth-Gapminder
+<img src = "Images/logo_gapminder.png" align="middle">  <br/> 
+
+
+## Regional-Growth-Gapminder <br/>
 This is the second project of my Data Analyst Nanodegree by Udacity. <br/>
  <br/>
  
@@ -21,4 +23,3 @@ The environment used is of Python 3.6 with the main libraries to Data Analysis w
 ### License
 MIT License<br/>
 Copyright (c) 2010-2019 Google
-
